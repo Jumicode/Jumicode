@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julio Romero</h1>
-<h3 align="center">A passionate frontend developer and computer engineering student from Venezuela</h3>
+<h3 align="center">A passionate PHP developer and computer engineering student from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumicode&label=Profile%20views&color=0e75b6&style=flat" alt="jumicode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jumicode" alt="jumicode" /></a> </p>
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **PHP**
 
 - 📫 How to reach me **jromeroacive@gmail.com**
 
